@@ -2,7 +2,7 @@
 
 👤 **Trong Pham**
 
-* Article: 
+* Article: https://enlabsoftware.com/development/how-to-create-real-time-chat-applications-using-websocket-apis-in-api-gateway.html
 
 ### Installation
 
